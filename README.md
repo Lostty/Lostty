@@ -1,7 +1,6 @@
 
 ## <img width="50" alt="about" src="https://imgs.search.brave.com/HctfrOJ2HLqymfYrnIgFOmQeUv_b9ElsbLILUzoMAvY/rs:fit:869:919:1/g:ce/aHR0cHM6Ly9jZG4x/NDAucGljc2FydC5j/b20vMjYwOTY4ODE0/MDAwMjEyLnBuZw"> About me
 
-<img align="right" width="300" src="https://imgs.search.brave.com/LzJRAkdg-02n68O21FoiAb4jGEXPDvhsgsmYv3LJQl4/rs:fit:500:269:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzIwL2M2/LzU4LzIwYzY1OGU0/YzM3NTI2OGVlZDU5/ZDFjOTRiNjEwNTlm/LmdpZg.gif" />
 
 ```C
 
