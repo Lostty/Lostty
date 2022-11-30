@@ -12,7 +12,7 @@ char likes[] = "\n~Animes [Studio Ghibli Supremacy]\n~Music [Ecletic]\n~Games [M
 int age = 17;
 
   printf("What's my age?\n\t\033[1;35mIs.. huh \033[1;32m%i\033[1;0m \033[1;31mright?\033[1;0m\nLikes: %s", age, likes);
-  if(strlen(likes) >= 700) printf("\n\t\033[1;32mYou hate something???\n");
+  if(strlen(likes) >= 700) printf("\n\t\033[1;32mYou hate something???\033[1;0m\n");
 
   return 0;
 }
