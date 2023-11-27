@@ -20,8 +20,3 @@
 ~ SysAdmin; <br>
 ~ A.I; <br>
 ~ RCE; <br>
-
-### Langs
-
-~ C/C++; <br>
-~ Ruby; <br>
